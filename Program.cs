@@ -13,6 +13,7 @@ var host = new HostBuilder()
         services.AddSingleton<EmailClient>(new EmailClient(Environment.GetEnvironmentVariable("CommunicationServices")));
         services.AddSingleton<IEmailService, EmailService>();
     })
+
     .Build();
 
 host.Run();
