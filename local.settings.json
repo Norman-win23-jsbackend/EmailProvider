@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ServiceBusConnection": "Endpoint=sb://sb-silicon-nor.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=HDz6RCMtpYuB857PyNPgs36HQiShVdzGV+ASbJhbV6s=",
+    "CommunicationServices": "endpoint=https://cs-silicon-nor.europe.communication.azure.com/;accesskey=pyPuikcS+aVbeiSLjXeTqK3a1glPlUm+HiWRf2Ljxgh7FqOm2yMchMVpLJ5DgLJzspEyBY1kOkLxbI2NlTQW3g==",
+    "SenderAddress": "DoNotReply@b9623652-2bbc-47b4-9deb-7d87dcbfa7be.azurecomm.net"
+  }
+}
